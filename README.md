@@ -5,6 +5,8 @@ some necessary downloads
 linux terminal 
 
 ~$ sudo apt install vim 
+
+
 ~$ sudo apt install cgminer
 
 
